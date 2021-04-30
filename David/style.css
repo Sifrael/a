@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+
+body {
+   background: url(img/fon.jpg);
+   font-family: 'Lobster';
+    
+}
+h1 {    
+    text-align: center;
+    color: #00BFFF;
+    font-size: 50px;
+    opacity: 0.8;
+    
+    
+    
+}
+
+a,li {
+    color: #00BFFF;
+    font-size: 25px;
+    margin: 10px auto;
+    text-decoration: none;
+    opacity: 0.8;
+    
+}
+a:hover {
+    font-size: 30px;
+    transition: 0.5s;
+}
+

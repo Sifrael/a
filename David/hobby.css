@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+body {
+    font-family: 'Lobster';    
+    margin: 0;
+	padding: 0; 
+    background: url(img/fon-2.jpg);
+    
+    
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;  
+    margin: 0 auto; 
+    color: white;
+    opacity: 0.9;
+}
+
+h1,p,a {
+    text-align: left;
+    font-size: 40px;  
+    margin: 0 auto; 
+    color: white;
+    opacity: 0.9;
+    text-decoration: none;
+    
+}
+li {
+    margin: 10px auto; 
+    color: white;
+    font-size: 25px; 
+}
+h1 {
+    text-align: center;
+}
+p {
+    font-size: 35px;
+    margin-bottom: 50px;
+}
+
+ a:hover {
+    font-size: 45px;
+    transition: 0.5s;
+}
+.h_1 {
+	width: 100%;
+	height: 100vh;
+	background: url("img/hob_1.png")  center no-repeat;	
+	background-size:cover;
+}
+
+.h_2,.h_3,.h_4 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.h_2 img {
+    width: 440px;
+    height: 100%;
+}
+
+
+.h_3 img {
+    width: 650px;
+    height: 100%;
+}
+
+.h_4 img {
+    width: 650px;
+    height: 100%;
+}
+
+
+
+
+
